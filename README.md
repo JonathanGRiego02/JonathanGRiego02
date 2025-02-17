@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center"><b>Hi, I'm Jonathan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**JonathanGRiego02/JonathanGRiego02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Personal Info
+👨‍💻 I'm a junior programmer from The Canary Islands, Spain. Passionate about technology and coding, I've been programming since 2020 across various languages and developing several projects during my academic career.
 
-Here are some ideas to get you started:
+🎓 I studied Computer Engineering for three years and completed a degree in Application Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ I also have a strong interest in hardware and enjoy learning about computer components and system optimization.
+
+## programming languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,spring,mysql&theme=dark)](https://skillicons.dev)
+
+
+## 📊 My Stats
+
+  <a href="https://github.com/JonathanGRiego02">
+    <img src="https://github-readme-stats.vercel.app/api?username=JonathanGRiego02&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGRiego02&hide=javascript,css,scss,html&theme=dracula&hide_border=true"/>

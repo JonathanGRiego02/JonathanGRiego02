@@ -7,6 +7,10 @@
 
 🖥️ I also have a strong interest in hardware and enjoy learning about computer components and system optimization.
 
+## ✉ Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jonathan-guti%C3%A9rrez-riego/)
+
+
 ## programming languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,spring,mysql&theme=dark)](https://skillicons.dev)
 
